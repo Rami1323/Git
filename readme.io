@@ -13,15 +13,13 @@ To evaluate the capabilities, integration feasibility, and practical value of ea
 
 
 
-Highlights
-Currently testing out Vertex AI for contract risk scoring
+Successfully tested Vertex AI for contract risk scoring
 
-API integration with AgentSpace is complete
+Completed API integration and functional validation with AgentSpace
 
-Initial document extraction tests via Document AI are successful
+Document AI extraction workflows verified on sample contracts
 
-Planning integration with NotebookLM for legal Q&A use cases
-
+NotebookLM API tested successfully for legal Q&A use cases
  Key Milestones (Updated)
 Milestone	Target Date	% Complete	Comments
 Set up GCP environment and onboard users	Completed	100%	Done
