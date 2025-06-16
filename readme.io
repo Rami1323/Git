@@ -46,3 +46,14 @@ Establish a culture of ongoing cost accountability across teams and departments
 Improve visibility into cloud usage and spending through transparent reporting and governance
 
 Enable long-term cloud financial planning to support strategic decision-making and future scalability
+
+
+----------------------------------------------------------
+
+Achieved approximately $1 million in annual cloud cost savings through targeted optimizations, including hybrid licensing, virtual machine right-sizing, and automated resource shutdowns.
+
+Successfully completed discovery and analysis to identify high-cost cloud resources and optimization opportunities.
+
+Initiated organization-wide awareness and education efforts to promote FinOps best practices among key stakeholders and cloud consumers.
+
+Established a dedicated FinOps function within the Center of Excellence to drive governance, accountability, and continuous cloud cost management.
