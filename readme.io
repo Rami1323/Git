@@ -30,3 +30,19 @@ Design and deploy multi-agent pipeline with AgentSpace	6/15/2025	20%	Early phase
 Integrate NotebookLM with contract corpus for internal testing	6/20/2025	0%	Not started
 Evaluate and benchmark all tools (accuracy, speed, usability)	6/25/2025	0%	Not started
 Final POC summary report and recommendation for production rollout
+
+
+-------------------------
+
+Scope:
+This initiative focuses on implementing and enhancing Cloud Cost Optimization and FinOps practices across MTAI’s Azure and AWS environments. The goal is to reduce unnecessary cloud spending, improve the efficiency of resource usage, and ensure that cloud investments align with organizational priorities and budget targets.
+
+Desired Outcome:
+
+Realize annual cost savings of up to $1 million through proactive optimization measures
+
+Establish a culture of ongoing cost accountability across teams and departments
+
+Improve visibility into cloud usage and spending through transparent reporting and governance
+
+Enable long-term cloud financial planning to support strategic decision-making and future scalability
